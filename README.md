@@ -11,4 +11,7 @@ This project demonstrates a neural network built with TensorFlow that learns how
 - Sepal width
 - Petal length
 - Petal width
-#### The model learns from these four features to predict the species of the iris 
+#### The model learns from these four features to predict the species of the iris.
+
+## Version History
+### 1.0.0
