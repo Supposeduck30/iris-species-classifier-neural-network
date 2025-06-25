@@ -86,4 +86,6 @@ Epoch 150: loss=0.0724, acc=0.9888, val_loss=0.1521, val_acc=0.9565
 
 Final test accuracy: 0.921
 ```
+![image](https://github.com/user-attachments/assets/74a1af7b-01ac-436b-a9d4-6e472d4a4881)
+
 
