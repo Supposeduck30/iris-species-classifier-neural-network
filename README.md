@@ -30,3 +30,9 @@ This project demonstrates a neural network built with TensorFlow that learns how
 python -m venv venv
 venv\Scripts\activate   # on Windows
 ```
+```
+python3 -m venv venv
+source venv/bin/activate # on macOS/Linux
+```
+
+
