@@ -15,3 +15,18 @@ This project demonstrates a neural network built with TensorFlow that learns how
 
 ## Version History
 ### 1.0.0
+- Terminal based
+- Trains over 150 epochs
+- Prints progress every 25 epochs
+- Displays 5 predictions of 5 randomly selected flowers from the data set
+
+## How to run 
+1. Make sure python is installed
+
+2. Clone the repository
+
+3. Create and activate a virtual environment
+```
+python -m venv venv
+venv\Scripts\activate   # on Windows
+```
