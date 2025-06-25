@@ -13,14 +13,14 @@ This project demonstrates a neural network built with TensorFlow that learns how
 - Petal width
 #### The model learns from these four features to predict the species of the iris.
 
-## Version History
+## 🕓 Version History
 ### 1.0.0
 - Terminal based
 - Trains over 150 epochs
 - Prints progress every 25 epochs
 - Displays 5 predictions of 5 randomly selected flowers from the data set
 
-## How to run 
+## 💻 How to run 
 1. Make sure python is installed
 
 2. Clone the repository
@@ -46,7 +46,7 @@ pip install pip install tensorflow pandas scikit-learn matplotlib
 python iris_classifier.py
 ```
 
-## How to tweak the project for your own use 
+## 🔧 How to tweak the project for your own use 
 1. Fork the repository
    
 2. Clone the fork
@@ -57,7 +57,7 @@ python iris_classifier.py
    
 5. OPTIONAL - Create a pull request if you want the main repository to change the code with what you changed
 
-## How it works 
+## 🧠 How it works 
 #### 1. Loads the iris dataset
   - This is a built in data set with 150 flower measurements
 
@@ -135,7 +135,7 @@ Actual species: 🌺 virginica
 Predicted species: 🌺 virginica (confidence: 0.97)
 ```
 
-## Known Issues 
+## ⚠️ Known Issues 
 - Compatible with scikit-learn 1.2 and above
 
 
