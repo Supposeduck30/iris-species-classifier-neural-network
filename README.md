@@ -5,7 +5,7 @@ This project demonstrates a neural network built with TensorFlow that learns how
 - Trains a neural network with TensorFlow/Keras
 - Predict which species a flower belongs to (Setosa, Versicolor, or Virginica)
 - Visualizing accuracy every 25 epochs
-### Species and their features
+### Species and their features:
 ####  Each sample includes:
 - Sepal length
 - Sepal width
