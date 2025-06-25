@@ -74,6 +74,8 @@ python iris_classifier.py
 
 #### 4. Outputs a prediction for 5 random measurement sets
 
+#### 5. Displays bar graphs and line charts to visualize predictions using matplotlib
+
 ## Outputs
 ```
 Epoch   1: loss=1.1637, acc=0.2022, val_loss=1.1481, val_acc=0.3043
@@ -87,5 +89,55 @@ Epoch 150: loss=0.0724, acc=0.9888, val_loss=0.1521, val_acc=0.9565
 Final test accuracy: 0.921
 ```
 ![image](https://github.com/user-attachments/assets/74a1af7b-01ac-436b-a9d4-6e472d4a4881)
+
+![image](https://github.com/user-attachments/assets/25030ba7-70a8-4830-9352-60844936ed01)
+
+![image](https://github.com/user-attachments/assets/d75d4314-49ab-4ccb-b3ac-3509fc158400)
+
+![image](https://github.com/user-attachments/assets/5d40cbcf-a278-4cef-b305-5f496e296c10)
+
+![image](https://github.com/user-attachments/assets/d852a8ca-0b7c-4286-87ab-6095dd00df9a)
+
+![image](https://github.com/user-attachments/assets/d31b3eba-d9c5-4f20-9ccc-5acae5ff3284)
+
+![image](https://github.com/user-attachments/assets/3e2d7744-cc56-4520-84a4-9217ae7399ef)
+
+![image](https://github.com/user-attachments/assets/92f72053-e374-48d9-84c9-a9d39d3e95a1)
+
+```
+Sample #1:
+Measurements (scaled): Sepal L=2.33, Sepal W=-0.15, Petal L=1.34, Petal W=1.47
+Actual species: 🌺 virginica
+Predicted species: 🌺 virginica (confidence: 1.00)
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 24ms/step
+
+Sample #2:
+Measurements (scaled): Sepal L=-0.08, Sepal W=-0.83, Petal L=0.76, Petal W=0.93
+Actual species: 🌺 virginica
+Predicted species: 🌺 virginica (confidence: 0.98)
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 28ms/step
+
+Sample #3:
+Measurements (scaled): Sepal L=-0.34, Sepal W=-1.29, Petal L=0.07, Petal W=-0.13
+Actual species: 🌷 versicolor
+Predicted species: 🌷 versicolor (confidence: 0.99)
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 30ms/step
+
+Sample #4:
+Measurements (scaled): Sepal L=-0.21, Sepal W=-0.60, Petal L=0.19, Petal W=0.14
+Actual species: 🌷 versicolor
+Predicted species: 🌷 versicolor (confidence: 0.97)
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 32ms/step
+
+Sample #5:
+Measurements (scaled): Sepal L=1.82, Sepal W=-0.37, Petal L=1.45, Petal W=0.80
+Actual species: 🌺 virginica
+Predicted species: 🌺 virginica (confidence: 0.97)
+```
+
+
+
+
+
 
 
