@@ -90,8 +90,6 @@ Final test accuracy: 0.921
 ```
 ![image](https://github.com/user-attachments/assets/74a1af7b-01ac-436b-a9d4-6e472d4a4881)
 
-![image](https://github.com/user-attachments/assets/25030ba7-70a8-4830-9352-60844936ed01)
-
 ![image](https://github.com/user-attachments/assets/d75d4314-49ab-4ccb-b3ac-3509fc158400)
 
 ![image](https://github.com/user-attachments/assets/5d40cbcf-a278-4cef-b305-5f496e296c10)
