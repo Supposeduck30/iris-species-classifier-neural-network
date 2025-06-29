@@ -133,7 +133,7 @@ Actual species: 🌺 virginica
 Predicted species: 🌺 virginica (confidence: 0.97)
 ```
 
-## ⚠️ Known Issues 
+## ⚠️ Warnings/Known Issues 
 - Compatible with scikit-learn 1.2 and above
 
 
